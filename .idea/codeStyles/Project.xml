@@ -1,0 +1,194 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="1000" />
+    <option name="DO_NOT_FORMAT">
+      <list>
+        <fileSet type="namedScope" name="ben.ts" pattern="file:source/ts/CLI/ben.ts" />
+      </list>
+    </option>
+    <DB2CodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </HSQLCodeStyleSettings>
+    <HTMLCodeStyleSettings>
+      <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    </HTMLCodeStyleSettings>
+    <JSCodeStyleSettings version="0">
+      <option name="FORCE_SEMICOLON_STYLE" value="true" />
+      <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+      <option name="IMPORT_SORT_MEMBERS" value="false" />
+      <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    </JSCodeStyleSettings>
+    <JSON>
+      <option name="OBJECT_WRAPPING" value="1" />
+      <option name="ARRAY_WRAPPING" value="1" />
+    </JSON>
+    <MSSQLCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </MySQLCodeStyleSettings>
+    <Objective-C>
+      <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="4" />
+      <option name="INDENT_DIRECTIVE_AS_CODE" value="true" />
+      <option name="METHOD_PARAMETERS_ALIGN_BY_COLONS" value="false" />
+      <option name="METHOD_CALL_ARGUMENTS_ALIGN_BY_COLONS" value="false" />
+      <option name="CLASS_CONSTRUCTOR_INIT_LIST_ALIGN_MULTILINE" value="false" />
+      <option name="SUPERCLASS_LIST_ALIGN_MULTILINE" value="false" />
+    </Objective-C>
+    <OracleCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+      <option name="QUOTE_IDENTIFIER" value="2" />
+      <option name="FROM_WRAP_JOIN_1" value="false" />
+      <option name="FROM_WRAP_JOIN_2" value="false" />
+      <option name="FROM_INDENT_JOIN" value="false" />
+      <option name="FROM_ONLY_JOIN_INDENT" value="1" />
+    </PostgresCodeStyleSettings>
+    <SQLiteCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </SQLiteCodeStyleSettings>
+    <ScssCodeStyleSettings>
+      <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+      <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
+    </ScssCodeStyleSettings>
+    <SqlCodeStyleSettings version="7">
+      <option name="KEYWORD_CASE" value="2" />
+      <option name="FROM_WRAP_JOIN_1" value="false" />
+      <option name="FROM_WRAP_JOIN_2" value="false" />
+      <option name="FROM_INDENT_JOIN" value="false" />
+      <option name="FROM_ONLY_JOIN_INDENT" value="1" />
+    </SqlCodeStyleSettings>
+    <SwiftCodeStyleSettings>
+      <option name="CONDITION_CLAUSES_ALIGN_MULTILINE" value="false" />
+    </SwiftCodeStyleSettings>
+    <SybaseCodeStyleSettings version="7">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="KEYWORD_CASE" value="2" />
+    </SybaseCodeStyleSettings>
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="FORCE_SEMICOLON_STYLE" value="true" />
+      <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+      <option name="SPACES_WITHIN_IMPORTS" value="true" />
+      <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
+      <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+      <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+    </TypeScriptCodeStyleSettings>
+    <codeStyleSettings language="CSS">
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JSON">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="Jade">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    </codeStyleSettings>
+    <codeStyleSettings language="LESS">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="ObjectiveC">
+      <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
+      <option name="BLANK_LINES_AFTER_IMPORTS" value="0" />
+      <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+      <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+      <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+      <option name="SPACE_WITHIN_BRACES" value="true" />
+      <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="PostgreSQL">
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="SASS">
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="SCSS">
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="SQL">
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="Swift">
+      <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+      <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+      <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+      <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+      <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+      <option name="CLASS_BRACE_STYLE" value="2" />
+      <option name="INDENT_CASE_FROM_SWITCH" value="true" />
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+      <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="false" />
+      <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="TypeScript">
+      <option name="BLANK_LINES_AFTER_IMPORTS" value="0" />
+      <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+      <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+      <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+      <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+      <arrangement>
+        <groups />
+        <rules />
+      </arrangement>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
